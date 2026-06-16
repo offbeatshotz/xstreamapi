@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.battleroyalegamecreation" name="Battle Royale Game Creation Repository" version="1.0.0" provider-name="Battle Royale Game Creation">
+    <extension point="xbmc.addon.repository" name="Battle Royale Game Creation Repository">
+        <info compressed="false">https://raw.githubusercontent.com/offbeatshotz/xstreamapi/main/kodi_repo/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/offbeatshotz/xstreamapi/main/kodi_repo/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/offbeatshotz/xstreamapi/main/kodi_repo/addons/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>The official repository for Battle Royale Game Creation addons.</summary>
+        <description>The official repository for Battle Royale Game Creation addons.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
